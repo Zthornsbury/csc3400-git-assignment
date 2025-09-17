@@ -1,4 +1,4 @@
-# My Software Engineering Project 
+# CSC 3400 Calculator Application
 **Student Name:** "Zoe Thornsbury"
 **Student ID:** "1341926"
 
