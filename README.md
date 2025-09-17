@@ -1,4 +1,4 @@
-# My Software Engineering Project 
+# Advanced Software Engineering Calculator Project 
 **Student Name:** "Zoe Thornsbury"
 **Student ID:** "1341926"
 
