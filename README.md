@@ -24,3 +24,9 @@ This repository contains assignments and projects for CSC 3400 Software Engineer
    - Comprehensive error handling
    - Command-line interface
    - Unit tests
+   - Version control with Git
+
+   ## Version History
+   - v1.0.0 - Complete implementation with all features and documentation
+
+     
